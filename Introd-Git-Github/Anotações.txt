@@ -1,0 +1,5 @@
+Link para download do git
+https://git-scm.com/downloads
+
+
+O Git Bash emula um ambiente bash no Windows. Ele permite que você use todos os recursos git na linha de comando e a maioria dos comandos unix padrão . Útil se você está acostumado ao Linux e deseja manter os mesmos hábitos.
